@@ -1,9 +1,23 @@
 #body {
     margin: auto;
-    background-color: bisque;
 }
 
 #navbar {
     margin: auto;
     text-decoration: none;
 }
+
+
+/* animacion fade in
+/* #test p {
+    color: black;
+    opacity: 100;
+    margin-top: 25px;
+    font-size: 21px;
+    text-align: center;
+    -webkit-transition: opacity 5s ease-in;
+    -moz-transition: opacity 5s ease-in;
+    -o-transition: opacity 5s ease-in;
+    -ms-transition: opacity 5s ease-in;
+    transition: opacity 5s ease-in;
+} */
